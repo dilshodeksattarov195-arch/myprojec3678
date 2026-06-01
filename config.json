@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterrync",
+        "uuid": 23101518,
+        "checksum": "8frzig"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
